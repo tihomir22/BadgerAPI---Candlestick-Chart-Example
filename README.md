@@ -1,4 +1,5 @@
 # BadgerAPICandlestick
+Example of doing a simple candlestick chart using Angular 8 + BadgerAPI + ChartJS
 ![alt text](https://i.gyazo.com/49845b58b55d66827e467e08a84e9bd7.png)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
