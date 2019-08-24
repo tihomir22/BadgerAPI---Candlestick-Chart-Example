@@ -1,6 +1,5 @@
 # BadgerAPICandlestick
-
-<center><img src="`https://gyazo.com/49845b58b55d66827e467e08a84e9bd7`"></center>
+![alt text](https://gyazo.com/49845b58b55d66827e467e08a84e9bd7)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
